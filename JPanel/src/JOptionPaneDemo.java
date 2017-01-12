@@ -27,7 +27,7 @@ public class JOptionPaneDemo extends JFrame
 			{
 			case 0:
 				{
-				JOptionPane.showMessageDialog(frame, "Ah, a nature lover...God's first Bible...");
+				JOptionPane.showMessageDialog(frame, "Ah, a nature lover...God's first Bible...Haha");
 				break;
 				}
 			case 1:
